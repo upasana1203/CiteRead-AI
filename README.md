@@ -81,4 +81,4 @@ streamlit run app.py
 
 ## Live Demo
 
-🔗 *[Add your deployed Streamlit link here once live]*
+https://citeread-ai-12031207003.streamlit.app/
