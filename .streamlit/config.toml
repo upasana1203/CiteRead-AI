@@ -1,0 +1,4 @@
+[server]
+# Caps uploaded PDF size (MB) to keep embedding/indexing time reasonable
+# on a free-tier deployment.
+maxUploadSize = 25
